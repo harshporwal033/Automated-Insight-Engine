@@ -1,0 +1,14 @@
+openpyxl
+numpy
+pandas
+pyarrow
+matplotlib
+scipy
+seaborn
+statsmodels
+groq
+python-dotenv
+reportlab
+fastapi
+uvicorn
+faiss-cpu
